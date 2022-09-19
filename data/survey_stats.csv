@@ -1,0 +1,238 @@
+Age,Gender,Relationship,Type,Adventure or Wildlife,Travel With,Trips Per Year,Domestic or International,Live in USA,Plan Around Activities,Plan Around Wildlife,Wildlife Seen,Sustainable Options,Community Benefit Options,Difficult to Find Sustainability,Difficult to Find Local Guides,Use Adventure Guides,Use Wildlife Guides,Destination Factors,Planning Process,Top Priorities,Adv Activities,Adv Plan Difficulty,Adv Guide Qualities,Difficult to Find Adv Guide,Wildlife Plan Difficulty,Wildlife Guide Qualities,Difficult to Find Wildlife Guide
+18 - 24,Woman,NA,Both,Adventure,With friends,0 to 1,NA,NA,3,NA,NA,5,5,5,3,TRUE,NA,"Safety, Nature, Activity Options, Culture","Significant Planning, Book  When Necessary, Book at Destination","Enjoyability, Safety, Activities/ Attractions, Affordability","Cultural Immersion, Nature Excursions, Tours","Finance Concerns, Safety Concerns, Quality Concerns","Trustworthy, Experienced/Knowledgeable, Positive Attitude",Lack of Online Presence,NA,NA,NA
+25 - 34,Woman,NA,Both,Adventure,Solo,4 to 5,NA,NA,3,NA,NA,3,3,4,1,FALSE,NA,"Finances, Activity Options","Little-to-No Planning, Online Booking Search","Affordability, Ease of Travel, Nature",Roughing It,Not Codable,NA,NA,NA,NA,NA
+25 - 34,Woman,NA,Both,Adventure,With a significant other,4 to 5,NA,NA,3,NA,NA,3,4,3,4,FALSE,NA,"Outdoor Recreation Options, Nature, Wildlife Presence, Cuisine, Culture",Little-to-No Planning,"Nature, Activities/ Attractions, Physical Activity","Roughing It, Terrestrial Sports, Defying Gravity, Watersports",Quality Concerns,NA,NA,NA,NA,NA
+25 - 34,Man,NA,Both,Wildlife,With a significant other,2 to 3,NA,NA,NA,4,Birds,4,4,3,2,NA,FALSE,Nature,"Significant Planning, Internet Resources","Nature, Physical Activity, Enjoyability",NA,NA,NA,NA,No Guarantees,NA,NA
+35 - 44,Woman,NA,Both,Adventure,Solo,4 to 5,NA,NA,3,NA,NA,5,4,2,2,TRUE,NA,"Outdoor Recreation Options, Culture","Significant Planning, Travel Professionals, Internet Resources, Book When Necessary","Enjoyability, Nature, New Experiences","Watersports, Roughing It, Cultural Immersion",Not Codable,"Local, Experienced/ Knowledgeable",Little-to-No Difficulty,NA,NA,NA
+18 - 24,Woman,NA,Both,Adventure,With a significant other,2 to 3,NA,NA,5,NA,NA,5,5,5,3,FALSE,NA,"Finances, Visitor Density","Significant Planning, Online Activity Search, Free Activities, No Advanced Booking","Safety, Nature, Affordability","Roughing It, Terrestrial Sports",Not Codable,NA,NA,NA,NA,NA
+25 - 34,Man,NA,Adventure Traveler,NA,With friends,6+,NA,NA,4,NA,NA,3,5,2,2,FALSE,NA,"Finances, Travel Considerations, Outdoor Recreation Options","Significant Planning, Loose Itinerary, Online Booking Search, Traveler Recommendations","Activities/Attractions, Cultural Experiences, Affordability","Roughing It, Terrestrial Sports, Watersports","Lack of Knowledge, Safety Concerns",NA,NA,NA,NA,NA
+25 - 34,Woman,NA,Adventure Traveler,NA,With friends,2 to 3,NA,NA,3,NA,NA,2,1,3,1,TRUE,NA,"Friends/Family In Area, Finances, Activity Options, Travel Considerations",Not Codable,"Affordability, Time With Friends, Enjoyability",Nature Excursions,Finance Concerns,"Positive Attitude, Positive Reviews, Local",Little-to-No Difficulty,NA,NA,NA
+18 - 24,Woman,NA,Wildlife Watcher,NA,With friends,2 to 3,NA,NA,NA,5,"Marine animals, Land mammals, Reptiles/Amphibians, Birds",3,4,4,3,NA,FALSE,Nature,"Online Activity Search, Significant Planning","Safety, Nature, Affordability",NA,NA,NA,NA,"Remoteness, No Guarantees, Seasonality",NA,NA
+25 - 34,Woman,NA,Both,Adventure,With a significant other,2 to 3,NA,NA,4,NA,NA,4,4,4,3,FALSE,NA,"Travel Considerations, Finances, Weather Considerations","Significant Planning, Internet Resources","Enjoyability, Scenery",Roughing It,Food/Gear Logistics,NA,NA,,NA,NA
+18 - 24,Man,NA,Wildlife Watcher,NA,With friends,4 to 5,NA,NA,NA,5,"Reptiles/Amphibians, Birds",3,3,3,3,NA,FALSE,Wildlife Presence,"Little-to-No Planning, Loose Itinerary, Book  When Necessary","Nature, Affordability",NA,NA,NA,NA,"Lack of Knowledge, Seasonality",NA,NA
+18 - 24,Woman,NA,Adventure Traveler,NA,Solo,2 to 3,NA,NA,3,NA,NA,3,4,2,1,FALSE,NA,"Finances, Activity Options","Online Activity Search, Book At Destination, Moderate Planning","Affordability, New Experiences","Terrestrial Sports, Roughing It, Tours",Not Codable,NA,NA,NA,NA,NA
+25 - 34,Woman,NA,Both,Adventure,With family,6+,NA,NA,3,,NA,4,3,3,2,TRUE,NA,"Finances, Travel Considerations","Advanced Booking, Traveler Recommendations ","Cultural Experiences, Nature, Enjoyability","Watersports, Roughing It",Food/Gear Logistics,"Trustworthy, Local",Vetting,NA,NA,NA
+18 - 24,Woman,NA,Both,Wildlife,Solo,2 to 3,NA,NA,NA,5,"Marine animals, Land mammals, Reptiles/Amphibians, Birds",5,5,4,5,NA,TRUE,Nature,Significant Planning,"Affordability, Safety",NA,NA,NA,NA,"Seasonality, No Guarantees","Respectful of Land, Local",Vetting
+25 - 34,Woman,NA,Both,Adventure,With family,6+,NA,NA,4,NA,NA,4,5,3,3,TRUE,NA,"Finances, Activity Options, Weather Considerations","Book  When Necessary, Little-to-No Planning","Affordability, Enjoyability, Ease of Travel","Roughing It, Watersports, Cultural Immersion",Finance Concerns,"Positive Attitude, Positive Reviews",Little-to-No Difficulty,NA,NA,NA
+25 - 34,Woman,NA,Both,Adventure,With friends,6+,NA,NA,4,NA,NA,4,4,3,2,TRUE,NA,"Activity Options, Finances, Travel Considerations, Language Barrier","Significant Planning, Online Booking Search, Internet Resources, Friends","Ease of Travel, Activities/Attractions, Affordability",Tours,"Finance Concerns, Local Transport","Experienced/Knowledgeable, Positive Attitude",Little-to-No Difficulty,NA,NA,NA
+18 - 24,Woman,NA,Both,Adventure,With a significant other,2 to 3,NA,NA,2,NA,NA,4,5,5,1,FALSE,NA,"Finances, Activity Options","Significant Planning, Online Activity Search, Free Activities","Affordability, Activities/Attractions, Cuisine","Roughing It, Cultural Immersion",Safety Concerns,NA,NA,NA,NA,NA
+35 - 44,Woman,NA,Both,Adventure,Solo,6+,NA,NA,5,NA,NA,5,5,3,4,FALSE,NA,"Nature, Outdoor Recreation Options, Culture, Finances, Visitor Density","Significant Planning, Friends, Online Booking Search, Traveler Recommendations","Nature, Affordability, Safety","Roughing It, Watersports","Food/Gear Logistics, Finance Concerns, Safety Concerns",NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Both,Adventure,With family,6+,NA,NA,4,NA,NA,3,3,3,3,TRUE,NA,"Outdoor Recreation Options, Culture, Wildlife Presence, New Location","Significant Planning, Internet Resources, Traveler Recommendations","Affordability, Activities/Attractions, Safety","Watersports, Roughing It",Finance Concerns,NA,NA,NA,NA,NA
+45 - 54,Woman,NA,Adventure Traveler,NA,With family and friends,6+,NA,NA,2,NA,NA,2,2,5,5,TRUE,NA,"Culture, Nature","Significant Planning, Friends, Travel Professionals, Online Booking Search","Safety, Relaxation, Cultural Experiences",Cultural Immersion,"Lack of Knowledge, Booking Trouble","Local, Experienced/ Knowledgeable, Trustworthy",Lack of Online Presence,NA,NA,NA
+18 - 24,Woman,NA,Both,Adventure,With friends,2 to 3,NA,NA,4,NA,NA,2,2,4,1,FALSE,NA,"Finances, Friends/Family In Area","Significant Planning, No Advanced Booking","Affordability, Activities/Attractions, Time With Friends",Cultural Immersion,Finance Concerns,NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Adventure Traveler,NA,With family,4 to 5,NA,NA,4,NA,NA,2,4,2,2,FALSE,NA,"Activity Options, Culture","Significant Planning, Online Booking Search, Advanced Booking","Lodging, Cuisine, Activities/Attractions","Cultural Immersion, Roughing It, Nature Excursions","Booking Trouble, Quality Concerns",NA,NA,NA,NA,NA
+45 - 54,Man,NA,Both,Adventure,With family,2 to 3,NA,NA,4,NA,NA,3,3,5,3,TRUE,NA,"Finances, Activity Options","Advanced Booking, Book At Destination, Internet Resources","Affordability, Ease of Travel","Watersports, Roughing It","Quality Concerns, Finance Concerns",Experienced/Knowledgeable,Availability/Overbooked,NA,NA,NA
+55+,Woman,NA,Neither,NA,With family,2 to 3,NA,NA,NA,NA,NA,3,3,3,3,NA,NA,"Finances, Travel Considerations, Weather Considerations","Significant Planning, Travel Professionals, Internet Resources, Advanced Booking","Affordability, Lodging",NA,NA,NA,NA,NA,NA,NA
+55+,Man,NA,Neither,NA,With family,2 to 3,NA,NA,NA,NA,NA,2,2,2,2,NA,NA,"Finances, Weather Considerations",Moderate Planning,"Lodging, Affordability",NA,NA,NA,NA,NA,NA,NA
+18 - 24,Man,NA,Both,Adventure,With family,2 to 3,NA,NA,4,NA,NA,4,4,2,5,TRUE,NA,"Nature, Activity Options","Significant Planning, Book At Destination","Activities/Attractions, Ease of Travel","Watersports, Roughing It",Not Codable,Experienced/Knowledgeable,Unhelpful/Deceptive Marketing,NA,NA,NA
+18 - 24,Nonbinary,NA,Neither,NA,With family,0 to 1,NA,NA,NA,NA,NA,5,5,5,5,NA,NA,"Safety, Travel Considerations, Weather Considerations, Activity Options, Language Barrier","Significant Planning, Loose Itinerary",Cuisine,NA,NA,NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Adventure Traveler,NA,With a significant other,2 to 3,NA,NA,4,NA,NA,1,2,2,1,TRUE,NA,Nature,"Significant Planning, Book At Destination","Nature, Affordability, Lodging, Enjoyability","Roughing It, Watersports","Quality Concerns, Local Transport",Not Codable,Little-to-No Difficulty,NA,NA,NA
+45 - 54,Woman,NA,Adventure Traveler,NA,With family,2 to 3,NA,NA,5,NA,NA,3,2,3,3,FALSE,NA,Finances,Significant Planning,Affordability,Nature Excursions,Quality Concerns,NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Adventure Traveler,NA,With a significant other,4 to 5,NA,NA,4,NA,NA,4,5,5,4,FALSE,NA,"Weather Considerations, Nature, Cuisine, Activity Options","Significant Planning, Internet Resources, Friends, Advanced Booking","Weather, Cuisine, Activities/Attractions","Nature Excursions, Defying Gravity, Cultural Immersion","Finance Concerns, Lack of Knowledge, Safety Concerns, Local Transport",NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Adventure Traveler,NA,With friends,4 to 5,NA,NA,4,NA,NA,5,5,2,2,TRUE,NA,"Finances, Weather Considerations, Activity Options, Safety","Significant Planning, Online Activity Search, Traveler Recommendations","Cuisine, Safety, Activities/Attractions","Cultural Immersion, Tours, Nature Excursions","Finance Concerns, Quality Concerns, Local Transport",Trustworthy,Vetting,NA,NA,NA
+18 - 24,Man,NA,Both,Adventure,With friends,2 to 3,NA,NA,3,NA,NA,2,3,5,1,TRUE,NA,"Activity Options, Safety","Significant Planning, Book At Destination","Safety, Ease of Travel, Lodging","Watersports, Defying Gravity, Tours, Roughing It","Safety Concerns, Booking Trouble","Positive Attitude, Experienced/Knowledgeable",Vetting,NA,NA,NA
+35 - 44,Woman,NA,Neither,NA,With family,2 to 3,NA,NA,NA,NA,NA,4,4,4,3,NA,NA,Finances,"Internet Resources, Online Activity Search",NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,NA,Adventure Traveler,NA,Solo,2 to 3,NA,NA,4,NA,NA,4,5,5,2,FALSE,NA,"Weather Considerations, Finances","Significant Planning, Online Booking Search","Safety, Scenery, Cuisine",Nature Excursions,"Safety Concerns, Finance Concerns",NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Neither,NA,With family,2 to 3,NA,NA,NA,NA,NA,3,3,3,2,NA,NA,Finances,"Significant Planning, Internet Resources",Affordability,NA,NA,NA,NA,NA,NA,
+18 - 24,Nonbinary,NA,Both,Wildlife,"Work, family",2 to 3,NA,NA,NA,3,"Marine animals, Land mammals, Birds",2,4,5,2,NA,TRUE,"Nature, Culture, Cuisine, Outdoor Recreation Options, Language Barrier",Loose Itinerary,"Cuisine, Cultural Experiences",NA,NA,NA,NA,"Price, Remoteness","Local, Respectful of Land",Little-to-No Difficulty
+18 - 24,Woman,NA,Adventure Traveler,NA,With a significant other,2 to 3,NA,NA,3,NA,NA,4,5,3,3,FALSE,NA,"Cuisine, Culture","Significant Planning, Friends, Book  When Necessary","Safety, Affordability","Roughing It, Tours","Safety Concerns, Local Transport",NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Adventure Traveler,NA,With family,4 to 5,NA,NA,5,NA,NA,2,4,5,4,FALSE,NA,"Culture, Cuisine","Significant Planning, Online Booking Search","Lodging, Ease of Travel, Cuisine","Roughing It, Watersports",Not Codable,NA,NA,NA,NA,NA
+18 - 24,Woman,NA,Both,Adventure,I go on trips with family and friends in the same amount,6+,NA,NA,1,NA,NA,2,3,3,2,TRUE,NA,NA,"Significant Planning, Internet Resources, Traveler Recommendations, Book  When Necessary","Enjoyability, New Experiences","Roughing It, Watersports, Terrestrial Sports, Tours, Cultural Immersion","Finance Concerns, Safety Concerns, Booking Trouble","Experienced/Knowledgeable, Trustworthy",NA,NA,NA,NA
+25 - 34,Nonbinary,NA,Wildlife Watcher,NA,Solo,6+,NA,NA,NA,5,"Reptiles/Amphibians, Birds",5,4,5,3,NA,FALSE,"Nature, Wildlife Presence, Finances, Travel Considerations","Little-to-No Planning, Internet Resources","Nature, Affordability",NA,NA,NA,NA,"Lodging, Remoteness",NA,NA
+18 - 24,Woman,NA,Neither,NA,With family,0 to 1,NA,NA,NA,NA,NA,2,2,3,1,NA,NA,Activity Options,"Significant Planning, Book At Destination","Enjoyability, New Experiences",NA,NA,NA,NA,NA,NA,NA
+55+,Woman,"Married/partnered, with children",Both,Adventure,With a significant other,4 to 5,Domestically,Yes,5,NA,NA,3,4,5,4,FALSE,NA,Activity Options,"Significant Planning, Online Booking Search, Online Activity Search","Activities/Attractions, Affordability, Enjoyability","Roughing It, Watersports",Not Codable,NA,NA,NA,NA,NA
+45 - 54,Woman,Single,Both,Wildlife,With family (excluding children),2 to 3,Internationally,No,NA,3,Marine animals,3,3,4,1,NA,FALSE,Nature,"Significant Planning, Book At Destination","Activities/Attractions, Weather, Cultural Experiences",NA,NA,NA,NA,Price,NA,NA
+18 - 24,Woman,"Married/partnered, no children",Both,Wildlife,Solo,6+,Domestically,Yes,NA,3,"Marine animals, Land mammals, Reptiles/Amphibians",5,5,4,3,NA,FALSE,"Nature, Wildlife Presence",Online Booking Search,"Affordability, Ease of Travel, Off Beaten Path",NA,NA,NA,NA,"Crowds, No Guarantees",NA,NA
+18 - 24,Man,Single,Adventure Traveler,NA,With family (excluding children),0 to 1,Internationally,No,5,NA,NA,4,2,2,5,FALSE,NA,"Nature, Travel Considerations",Significant Planning,Nature,Roughing It,Not Codable,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Both,Wildlife,With family (excluding children),2 to 3,Internationally,Yes,NA,4,"Marine animals, Land mammals, Birds",5,5,4,2,NA,TRUE,"Nature, Travel Considerations, Finances","Moderate Planning, Online Booking Search, Internet Resources, Traveler Recommendations","Nature, Ease of Travel, Safety",NA,NA,NA,NA,Seasonality; Deceptive Marketing,"Experienced/Knowledgeable, Respectful of Land",Vetting
+25 - 34,Woman,"Married/partnered, no children",Both,Adventure,With a significant other,4 to 5,Domestically,Yes,4,NA,NA,5,4,2,1,FALSE,NA,"Personal Availability, Finances","Significant Planning, Internet Resources, Friends","Nature, Cultural Experiences","Watersports, Defying Gravity, Roughing It, Cultural Immersion",Finance Concerns,NA,NA,NA,NA,NA
+25 - 34,Man,"Married/partnered, no children",Neither,NA,With a significant other,2 to 3,Internationally,No,NA,NA,NA,2,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18 - 24,Nonbinary,Single,Neither,NA,With family (excluding children),2 to 3,Domestically,Yes,NA,NA,NA,2,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Adventure,Solo,2 to 3,Internationally,No,5,NA,NA,5,5,4,3,TRUE,NA,Outdoor Recreation Options,Significant Planning; Advanced Booking,"Nature, Ease of Travel, Lodging",Watersports,Booking Trouble,"Local, Experienced/Knowledgeable",Unhelpful/Deceptive Marketing,NA,NA,NA
+35 - 44,Woman,"Married/partnered, with children",,NA,With family (including children),4 to 5,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Adventure,With a significant other,2 to 3,Domestically,Yes,5,NA,NA,3,3,4,4,FALSE,NA,"Travel Considerations, Activity Options",Moderate Planning,"Physical Activity, Lodging, Ease of Travel","Roughing It, Watersports","Lack of Knowledge, Booking Trouble",NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Both,Adventure,With friends,6+,Domestically,Yes,4,NA,NA,5,3,3,3,FALSE,NA,Finances,Little-to-No Planning,"Scenery, New Experiences","Cultural Immersion, Roughing It","Lack of Knowledge, Food/Gear Logistics",NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,4 to 5,Internationally,Yes,3,NA,NA,5,5,4,3,FALSE,NA,"Finances, Weather Considerations, Personal Availability, Travel Considerations","Significant Planning, Friends, Traveler Recommendations, Advanced Booking","New Experiences, Scenery, Relaxation","Roughing It, Cultural Immersion",Local Transport,NA,NA,NA,NA,NA
+35 - 44,Woman,"Married/partnered, with children",,NA,With family (including children),2 to 3,Internationally,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Adventure Traveler,NA,Solo,6+,Internationally,Yes,5,NA,NA,5,5,2,2,FALSE,NA,Outdoor Rec Options,Loose Itinerary,"Affordability, Safety, Off Beaten Path","Watersports, Roughing It, Cultural Immersion","Finance Concerns, Safety Concerns",NA,NA,NA,NA,NA
+35 - 44,Woman,Single,Adventure Traveler,NA,With friends,4 to 5,Internationally,Yes,4,NA,NA,3,2,3,3,FALSE,NA,"Friends/Family In Area, Outdoor Rec Options","Moderate Planning, Internet Resources, Friends, No Advanced Booking","Nature, Cuisine, Time With Friends","Watersports, Roughing It",Finance Concerns,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,4 to 5,Domestically,Yes,5,NA,NA,4,4,5,5,FALSE,NA,"Nature, Outdoor Rec Options","Significant Planning, Internet Resources, Friends, Advanced Booking","Nature, Scenery, Safety, Affordability","Roughing It, Cultural Immersion","Quality Concerns, Booking Trouble",NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Adventure,With a significant other,2 to 3,Domestically,Yes,5,NA,NA,5,5,3,2,FALSE,NA,Outdoor Rec Options,"Traveler Recommendations, Online Booking Search, Loose Itinerary","Off Beaten Path, Physical Activity, Lodging, Affordability, Time With Friends","Terrestrial Sports, Watersports","Food/Gear Logistics, Finance Concerns",NA,NA,NA,NA,NA
+25 - 34,Man,"Married/partnered, no children",Wildlife Watcher,NA,With a significant other,4 to 5,Domestically,Yes,NA,4,"Land mammals, Birds",3,3,3,3,NA,FALSE,"Friends/Family In Area, Travel Considerations",Little-To-No Planning,"Physical Activity, Nature, Off Beaten Path",NA,NA,NA,NA,Not Codeable,NA,NA
+35 - 44,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,4 to 5,Domestically,Yes,5,NA,NA,5,5,3,2,TRUE,NA,"Nature, Activity Options","Significant Planning, Traveler Recommendations, Internet Resources, Book At Destination","Affordability, Activities/Attractions","Watersports, Roughing It","Safety Concerns, Quality Concerns","Experienced/Knowledgeable, Trustworthy",Vetting,NA,NA,NA
+45 - 54,Woman,"Married/partnered, no children",Wildlife Watcher,NA,With a significant other,2 to 3,Internationally,Yes,NA,5,"Land mammals, Reptiles/Amphibians, Birds",5,5,3,2,NA,TRUE,Nature,"Significant Planning, Advanced Booking",Eco Friendly,NA,NA,NA,NA,Remoteness,"Knowledgeable/Experienced, Positive Attitude",Vetting
+25 - 34,Woman,Single,Adventure Traveler,NA,With friends,2 to 3,Domestically,Yes,5,NA,NA,4,3,5,3,FALSE,NA,Not Codable,Not Codable,"Affordability, Activities/Attractions, Weather","Roughing It, Watersports",Booking Trouble,NA,NA,NA,NA,NA
+18 - 24,Woman,"Married/partnered, no children",Both,Wildlife,With a significant other,4 to 5,Domestically,Yes,NA,3,"Marine animals, Land mammals, Reptiles/Amphibians, Birds",5,5,5,3,NA,FALSE,"Culture, Visitor Density, Nature","Moderate Planning, Internet Resources","Off Beaten Path, Nature, Lodging",NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Both,Adventure,Solo,6+,Domestically,Yes,3,NA,NA,4,4,5,2,FALSE,NA,"Travel Considerations, Cuisine",Book When Necessary,"Affordability, Cultural Experiences, Safety","Roughing It, Watersports, Defying Gravity, Cultural Immersion","Finance Concerns, Quality Concerns, Safety Concerns",NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Adventure Traveler,NA,Solo,4 to 5,Domestically,Yes,3,NA,NA,2,3,3,3,FALSE,NA,"Finances, Activity Options, Travel Considerations ",Not Codable,"New Experiences, Affordability, Activities/Attractions ","Roughing It, Watersports, Cultural Immersion",Lack of Knowledge,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Wildlife,With a significant other,2 to 3,Domestically,Yes,NA,4,"Land mammals, Birds",5,4,4,3,NA,FALSE,Nature,"Significant Planning, Internet Resources, Traveler Recommendations, Advanced Booking","Safety, Scenery, Off Beaten Path",NA,NA,NA,NA,"Crowds, Remoteness",NA,NA
+35 - 44,Woman,Single,Both,Wildlife,With friends,6+,Domestically,Yes,NA,4,"Marine animals, Land mammals",5,5,2,2,NA,TRUE,"Nature, Wildlife Presences, Activity Options","Moderate Planning, Internet Resources, Online Booking Search","Physical Activity, Nature, Cuisine",NA,NA,NA,NA,No Guarantees,"ExperiencedKnowledgeable, Positive Attitude, Trustworthy",Little-to-No Difficulty
+25 - 34,Woman,"Married/partnered, with children",Both,Wildlife,With family (excluding children),2 to 3,Domestically,Yes,NA,4,Land mammals,4,5,3,5,NA,FALSE,"Nature, Culture","Internet Resources, Friends, Moderate Planning","Safety, New Experiences, Affordability",NA,NA,NA,NA,Not Codeable,NA,NA
+35 - 44,Man,Single,Both,Adventure,With family (excluding children),4 to 5,Domestically,Yes,4,NA,NA,4,5,4,4,FALSE,NA,"Weather Considerations, Nature, Wildlife Presence, Culture ","Significant Planning, Plan Don’t Book, Loose Itinerary","Activities/Attractions, Nature, Affordability","Roughing It, Terrestrial Sports, Watersports","Food/Gear Logistics, Quality Concerns ",NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Adventure,With friends,2 to 3,Domestically,Yes,4,NA,NA,5,5,3,2,FALSE,NA,Nature,"Little-To-No Planning, Online Booking Search, Friends, Traveler Recommendations","Nature, Physical Activity, Cultural Experiences, Cuisine","Roughing It, Terrestrial Sports","Booking Trouble, Safety Concerns, Local Transport, Lack of Knowledge",NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Wildlife Watcher,NA,With friends,2 to 3,Domestically,Yes,NA,3,"Land mammals, Birds",4,3,2,1,NA,FALSE,"Culture, Nature, Safety","Significant Planning, Online Booking Search","New Experiences, Cultural Experiences, Scenery",NA,NA,NA,NA,Remoteness,NA,NA
+35 - 44,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,2 to 3,Domestically,Yes,5,NA,NA,3,3,3,3,FALSE,NA,"Nature, Outdoor Rec Options",Not Codable,"Nature, New Experiences","Terrestrial Sports, Roughing It, Watersports",Not Codeable,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Neither,NA,With friends,2 to 3,Internationally,Yes,NA,NA,NA,2,2,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+18 - 24,Woman,"Married/partnered, no children",Neither,NA,With a significant other,6+,Domestically,Yes,NA,NA,NA,5,5,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Man,"Married/partnered, no children",Adventure Traveler,NA,With friends,4 to 5,Domestically,Yes,5,NA,NA,2,4,4,2,FALSE,NA,"Outdoor Rec Options, New Location","Advanced Booking, Significant Planning","Activities/Attractions, Lodging, Cuisine",Roughing It,Not Codable,NA,NA,NA,NA,NA
+18 - 24,Woman,"Married/partnered, no children",Both,Adventure,With a significant other,6+,Domestically,Yes,3,NA,NA,4,4,3,3,FALSE,NA,"Personal Availability, Travel Considerations",Not Codable,"Ease of Travel, Weather, Affordability","Roughing It, Terrestrial Sports, Watersports, Nature Excursions",Finance Concerns,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Adventure,With friends,4 to 5,Domestically,Yes,3,NA,NA,4,4,2,2,TRUE,NA,"Friends/Family In Area, Finances","Moderate Planning, Book When Necessary","Nature, Off Beaten Path","Watersports, Roughing It, Defying Gravity",Finance Concerns,"Positive Reviews, Trustworthy",Lack of Knowledge,NA,NA,NA
+25 - 34,Man,"Married/partnered, no children",Both,Adventure,With a significant other,6+,Domestically,Yes,5,NA,NA,4,4,3,3,FALSE,NA,"Finances, Nature","Significant Planning, Internet Resources, Advanced Booking","Nature, Activities/Attractions, Affordability","Watersports, Roughing It",Booking Trouble,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, with children",,NA,With family (including children),4 to 5,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,6+,Domestically,Yes,4,NA,NA,4,5,3,2,TRUE,NA,"Finances, Safety","Significant Planning, Advanced Booking, Online Booking Search","Affordability, Ease of Travel, Activities/Attractions","Watersports, Roughing It, Terrestrial Sports","Finance Concerns, Safety Concerns","Positive Reviews, Trustworthy",Not Codeable,NA,NA,NA
+55+,Man,"Married/partnered, with children",Adventure Traveler,NA,With a significant other,2 to 3,Domestically,Yes,5,NA,NA,4,5,2,3,TRUE,NA,Outdoor Rec Options,Significant Planning,"Scenery, Off Beaten Path, Activities/Attractions","Roughing It, Terrestrial Sports, Watersports",Finance Concerns,"Positive Attitude, Trustworthy",Lack of Knowledge,NA,NA,NA
+18 - 24,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,2 to 3,Domestically,Yes,5,NA,NA,3,2,3,3,FALSE,NA,Nature,"Significant Planning, Online Activity Search","Affordability, Activities/Attractions, Safety","Roughing It, Watersports, Defying Gravity",Safety Concerns,NA,NA,NA,NA,NA
+35 - 44,Woman,Single,Both,Adventure,With friends,4 to 5,Domestically,Yes,4,NA,NA,4,4,3,4,FALSE,NA,"Outdoor Rec Options, New Location","Moderate Planning, Book in Advance, Book At Destination","Activities/Attractions, Cuisine, Ease of Travel","Terrestrial Sports, Watersports",Local Transport,NA,NA,NA,NA,NA
+35 - 44,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,4 to 5,Domestically,Yes,2,NA,NA,5,5,3,3,FALSE,NA,"Travel Considerations, Finances, Outdoor Rec Options","Significant Planning, Online Booking Search, Traveler Recommendations, Book When Necessary","New Experiences, Nature, Affordability","Roughing It, Watersports, Defying Gravity","Quality Concerns, Local Transport, Booking Trouble",NA,NA,NA,NA,NA
+25 - 34,Man,Single,Both,Adventure,Solo,2 to 3,Internationally,Yes,4,NA,NA,2,5,5,3,TRUE,NA,"Culture, Outdoor Rec Options",Little-To-No Planning,"Affordability, Ease of Travel, Lodging ",Not Codable,Safety Concerns,Trustworthy,Vetting,NA,NA,NA
+35 - 44,Woman,"Married/partnered, no children",Wildlife Watcher,NA,With a significant other,2 to 3,Domestically,Yes,NA,4,"Marine animals, Land mammals",5,4,3,2,NA,TRUE,"Finances, Personal Availability, Travel Considerations, Language Barrier, Weather Considerations, Culture, Nature",Moderate Planning,"Safety, Affordability, Activities/Attractions ",NA,NA,NA,NA,No Guarantees,"Ethical Treatment, Respectful of Nature, Experienced/Knowledgeable",Vetting
+18 - 24,Woman,Single,Adventure Traveler,NA,With friends,4 to 5,Domestically,Yes,5,NA,NA,5,5,5,5,TRUE,NA,"Finances, Outdoor Rec Options, Activity Options, Weather Considerations, Culture","Significant Planning, Online Booking Search, Travel Professionals, Advanced Booking, Book At Destination","Eco Friendly, Affordability, Activities/Attractions, Ease of Travel","Roughing It, Watersports, Cultural Immersion",Quality Concerns,Experienced/Knowledgeable,Vetting,NA,NA,NA
+25 - 34,Woman,Single,Adventure Traveler,NA,With friends,6+,Domestically,Yes,4,NA,NA,3,5,3,1,FALSE,NA,"Travel Considerations, Finances, Nature","Little-To-No Planning, Internet Resources, Book At Destination","Scenery, Affordability, Off Beaten Path",Watersports,"Quality Concerns, Finance Concerns",NA,NA,NA,NA,NA
+18 - 24,Man,Single,Adventure Traveler,NA,Solo,2 to 3,Internationally,Yes,4,NA,NA,1,1,5,2,FALSE,NA,Finances,Not Codable,"Safety, Scenery",Roughing It,"Quality Concerns, Finance Concerns",NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Adventure Traveler,NA,Solo,4 to 5,Internationally,Yes,5,NA,NA,4,4,4,3,FALSE,NA,"Outdoor Rec Options, Culture, Cuisine",Book When Necessary,"Activities/Attractions, Cultural Experiences","Watersports, Roughing It, Terrestrial Sports",Lack of Knowledge,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Wildlife,With a significant other,6+,Domestically,Yes,NA,3,"Marine animals, Land mammals",5,4,2,2,NA,TRUE,"Friends/Family In Area, Outdoor Rec Options, Wildlife Presence","Significant Planning, Advanced Booking, Internet Resources","Affordable, Eco Friendly, Activities/Attractions, Cuisine",NA,NA,NA,NA,"Ethical Treatment, Deceptive Marketing","Local, Respectful of Nature",Budget
+25 - 34,Man,Single,Adventure Traveler,NA,With friends,6+,Domestically,Yes,4,NA,NA,3,3,3,3,FALSE,NA,"Nature, Friends/Family In Area","Little-To-No Planning, Internet Resources, NoAdvanced Booking","Nature, Physical Activity, Relaxation","Terrestrial Sports, Roughing It, Watersports",Not Codeable,NA,NA,NA,NA,NA
+25 - 34,Man,Single,Adventure Traveler,NA,With friends,6+,Domestically,Yes,4,NA,NA,3,3,2,2,FALSE,NA,"Travel Considerations, Outdoor Rec Options",Not Codable,"Physical Activity, Enjoyability, Relaxation",Not Codable,Not Codeable,NA,NA,NA,NA,NA
+55+,Man,"Married/partnered, with children",,NA,With family (including children),2 to 3,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+35 - 44,Woman,Single,Adventure Traveler,NA,With friends,6+,Internationally,Yes,5,NA,NA,5,5,5,2,FALSE,NA,Activity Options,Moderate Planning,"Outdoor Rec Options, Activities/Attractions, Off Beaten Path, Cultural Experiences, New Experiences","Watersports, Terrestrial Sports",Lack of Knowledge,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Neither,NA,With friends,4 to 5,Domestically,Yes,NA,NA,NA,4,4,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,6+,Domestically,Yes,5,NA,NA,4,3,3,3,FALSE,NA,"Nature, Travel Considerations, Visitor Density","Moderate Planning, Significant Planning ","Scenery, Off Beaten Path,, New Experiences","Roughing It, Watersports",Booking Trouble,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Both,Adventure,With friends,2 to 3,Domestically,Yes,4,NA,NA,2,2,4,5,FALSE,NA,"Nature, Travel Considerations. Finances, Safety","Moderate Planning, Internet Resources, Traveler Recommendations, Advanced Booking","Lodging, Affordability, Safety",Roughing It,Safety Concerns,NA,NA,NA,NA,NA
+25 - 34,Man,Single,Adventure Traveler,NA,With a significant other,6+,Domestically,Yes,4,NA,NA,5,5,3,1,FALSE,NA,"Finances, Activity Options, Visitor Density, Weather Considerations, Culture","Moderate Planning, Friends, Internet Resources, Book At Destination","Affordability, Off Beaten Path, Time With Friends","Watersports, Terrestrial Sports, Roughing It, Defying Gravity","Food/Gear Logistics, Lack of Knowledge",NA,NA,NA,NA,NA
+35 - 44,Man,Single,Adventure Traveler,NA,Solo,4 to 5,Domestically,Yes,2,NA,NA,4,1,1,1,TRUE,NA,Outdoor Rec Options,"Significant Planning, Online Activity Search, Book At Destination","New Experiences, Physical Activity, Affordability","Roughing It, Watersports",Lack of Knowledge,Trustworthy,Vetting,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,2 to 3,Internationally,Yes,5,NA,NA,3,3,4,4,FALSE,NA,"Personal Availability, Travel Considerations, Finances","Significant Planning, Internet Resources","Activities/Attractions, Relaxation, Affordability",Watersports,Lack of Knowledge,NA,NA,NA,NA,NA
+35 - 44,Woman,"Married/partnered, with children",,NA,With family (including children),4 to 5,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Both,Adventure,With friends,4 to 5,Domestically,Yes,3,NA,NA,3,5,3,3,FALSE,NA,"Personal Availability, Finances, Travel Considerations, Friends Live Nearby","Significant Planning, No Advanced Booking","Time With Friends, Enjoyability, New Experiences","Watersports, Roughing It",Finance Concerns,NA,NA,NA,NA,NA
+35 - 44,Man,Single,Both,Adventure,With a significant other,2 to 3,Internationally,No,3,NA,NA,3,3,4,4,TRUE,NA,Not Codable,"Moderate Planning, Friends","Safety, Scenery, Cuisine","Watersports, Roughing It, Defying Gravity",Quality Concerns,,Vetting,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,6+,Domestically,Yes,4,NA,NA,4,2,3,1,TRUE,NA,Not Codable,"Significant Planning, Friends, Online Booking Search, Advanced Booking","Weather, Activities/Attractions","Terrestrial Sports, Roughing It, Watersports, Tours",Lack of Knowledge,"Positive Attitude, Experienced/Knowledgeable",Little-to-No Difficulty,NA,NA,NA
+55+,Woman,"Married/partnered, with children",Adventure Traveler,NA,With a significant other,2 to 3,Domestically,Yes,5,NA,NA,4,4,2,2,TRUE,NA,"Finances, Personal Availability, Weather Considerations, Activity Options, Visitor Density","Significant Planning, Friends, Internet Resources, Advanced Booking","Scenery, Physical Activity, Off Beaten Path","Roughing It, Watersports",Food/Gear Logistics,"Local, Experienced/Knowledgeable, Positive Reviews",Little-to-No Difficulty,NA,NA,NA
+25 - 34,Man,"Married/partnered, no children",Both,Adventure,With a significant other,2 to 3,Domestically,Yes,3,NA,NA,1,1,3,3,FALSE,NA,"Finances, Culture, Visitor Density",Not Codable,"Off Beaten Path, Nature","Terrestrial Sports, Waterports, Roughing It",Not Codeable,NA,NA,NA,NA,NA
+25 - 34,Woman,Single,Both,Wildlife,With friends,2 to 3,Domestically,Yes,NA,4,"Marine animals, Land mammals, Reptiles/Amphibians, Birds",5,5,3,4,NA,TRUE,"Travel Considerations, Activity Options, Personal Availability, Weather Considerations","Significant Planning, Internet Resources, Travel Professionals, Book At Destination","Eco Friendly, Enjoyability, Activities/Attractions, Weather",NA,NA,NA,NA,"Price, Lack of Knowledge","Experienced/Knowledgeable, Ethical Treatment",Not Codeable
+25 - 34,Woman,"Married/partnered, no children",Both,Wildlife,With a significant other,6+,Domestically,Yes,NA,4,"Marine animals, Land mammals",5,5,1,1,NA,FALSE,"Personal Availability, Weather Considerations","Significant Planning, Traveler Recommendations","Affordability, Cuisine, Nature, New Experiences",NA,NA,NA,NA,"No Guarantees, Ethical Treatment",NA,NA
+25 - 34,Man,Single,Adventure Traveler,NA,Solo,4 to 5,Domestically,Yes,2,NA,NA,3,4,3,2,TRUE,NA,"Personal Availability, Travel Considerations, Weather Considerations, Finances","Little-to-No Planning, Internet Resources, Friends, Online Booking Search, Free Activities","Cuisine, Cultural Experiences","Terrestrial Sports, Roughing It, Watersports, Cultural Immersion","Finance Concerns, Safety Concerns, Lack of Knowledge, Local Transport","Experienced/Knowledgeable, Positive Attitude, Local",Lack of Knowledge,NA,NA,NA
+25 - 34,Woman,in a relationship but not married,Both,Wildlife,With a significant other,2 to 3,Domestically,Yes,NA,4,"Marine animals, Land mammals",3,4,5,4,NA,TRUE,"New Location, Travel Considerations, Activity Options","Significant Planning, Advanced Booking",Activities/Attractions,NA,NA,NA,NA,Lack of Knowledge,"Respectful of Nature, Ethical Treatment",Not Codeable
+35 - 44,Man,"Married/partnered, no children",Both,Adventure,With a significant other,2 to 3,Domestically,Yes,4,NA,NA,5,4,3,4,FALSE,NA,Not Codable,Not Codeable,"Nature, Activities/Attractions, Cuisine, Affordability","Watersports, Roughing It, Terrestrial Sports",Quality Concerns,NA,NA,NA,NA,NA
+25 - 34,Woman,"Married/partnered, no children",NA,NA,With family (including children),2 to 3,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55+,Woman,Single,Both,Wildlife,With family (excluding children),2 to 3,Domestically,Yes,NA,4,"Marine animals, Land mammals, Birds",4,3,3,3,NA,FALSE,"Finances, Travel Considerations","Moderate Planning, Online Booking Search",Ease of Travel,NA,NA,NA,NA,"Seasonality, Crowds",NA,NA
+35 - 44,Man,"Married/partnered, no children",Adventure Traveler,NA,With a significant other,2 to 3,Domestically,Yes,4,NA,NA,3,3,4,2,FALSE,NA,"Activity Options, Friends Live Nearby","Moderate Planning, Advanced Booking, Internet Resources, Traveler Recommendations","Ease of Travel, Activities/Attractions",Cultural Immersion,"Booking Trouble, Safety Concerns",NA,NA,NA,NA,NA
+25 - 34,Man,"Married/partnered, no children",Both,Adventure,With a significant other,2 to 3,Domestically,Yes,3,NA,NA,2,4,3,2,FALSE,NA,"Cuisine, Activity Options",Loose Itinerary,"Cuisine, Scenery, Activities/Attractions","Terrestrial Sports, Wastersports",Finance Concerns,NA,NA,NA,NA,NA
+45 - 54,Woman,Single,Both,Wildlife,With friends,2 to 3,Domestically,Yes,NA,4,"Marine animals, Land mammals, Birds",5,5,3,3,NA,FALSE,New Location,"Significant Planning, Internet Resources, Advanced Booking","New Experiences, Off Beaten Path, Nature",NA,NA,NA,NA,Not Codeable,NA,NA
+35 - 44,Man,Single,Both,Adventure,With a significant other,6+,Internationally,Yes,5,NA,NA,4,3,2,2,FALSE,NA,"Wildlife Presence, Weather Considerations, Activity Options",Significant Planning,"Affordability, Safety","Roughing It, Watersports",Booking Trouble,NA,NA,NA,NA,NA
+25 - 34,Man,Single,Wildlife Watcher,NA,With family (excluding children),2 to 3,Domestically,Yes,NA,3,Marine animals,3,3,2,2,NA,FALSE,Travel Considerations,"Significant Planning, Book At Destination",Ease of Travel,NA,NA,NA,NA,Not Codeable,NA,NA
+25 - 34,Man,"Married/partnered, no children",Wildlife Watcher,NA,With a significant other,4 to 5,Domestically,Yes,NA,3,"Marine animals, Land mammals, Birds",2,4,4,3,NA,FALSE,"New Location, Activity Options, Culture","Internet Resources, Friend/Family Recommendations","Affordability, Enjoyability",NA,NA,NA,NA,Seasonality,NA,NA
+55+,Woman,"Married/partnered, with children",NA,NA,With family (including children),6+,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+55+,Man,"Married/partnered, no children",Both,Wildlife,With a significant other,2 to 3,Internationally,Yes,NA,5,"Marine animals, Land mammals, Reptiles/Amphibians, Birds",5,5,3,1,NA,TRUE,Wildlife Presence,Significant Planning,"Nature, Scenery, Off Beaten Path",NA,NA,NA,NA,Not Codeable,"Local, Experienced/Knowledgeable, Respectful of Nature",Vetting
+25 - 34,Woman,Single,Both,Wildlife,With a significant other,2 to 3,Domestically,Yes,NA,4,"Marine animals, Land mammals",5,5,4,4,NA,FALSE,"Finances, Travel Considerations","Significant Planning, Online Booking Search","Relaxation, Activities/Attractions, Ease of Travel",NA,NA,NA,NA,"Seasonality, Price",NA,NA
+35 - 44,Woman,"Married/partnered, with children",NA,NA,With family (including children),2 to 3,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45 - 54,Woman,"Married/partnered, no children",Both,Wildlife,With friends,2 to 3,Internationally,Yes,NA,5,Marine animals,5,5,3,3,NA,TRUE,Outdoor Rec Options,Significant Planning,"Ease of Travel, Safety, Activities/Attractions",NA,NA,NA,NA,Seasonality,"Positive Reviews, Trustworthy",Not Codeable
+35 - 44,Woman,"Married/partnered, no children",Wildlife Watcher,NA,Solo,2 to 3,Domestically,Yes,NA,4,Marine animals,3,4,4,3,NA,TRUE,Activity Options,"Significant Planning, Online Booking Search, Advanced Booking, Book At Destination","Lodging, Affordability, Ease of Travel",NA,NA,NA,NA,Seasonality,Experienced/Knowledgeable,Little-to-No Difficulty
+25 - 34,Woman,"Married/partnered, no children",Both,Wildlife,With a significant other,4 to 5,Domestically,Yes,NA,4,"Marine animals, Land mammals",4,3,2,3,NA,TRUE,"New Location, Outdoor Rec Options, Nature, Wildlife Presence, Cuisine, Finances, Culture","Little-to-No Planning, Advanced Booking","Nature, Cuisine, Affordability",NA,NA,NA,NA,Remoteness,Local,Vetting
+35 - 44,Woman,Single,Both,Wildlife,With friends,2 to 3,Internationally,Yes,NA,3,"Marine animals, Land mammals, Reptiles/Amphibians, Birds",5,5,3,3,NA,FALSE,"Friends Live Nearby, Outdoor Activity Options","Significant Planning, Advanced Booking",Not Codeable,NA,NA,NA,NA,"No Guarantees, Lack of Knowledge",NA,NA
+25 - 34,Woman,"Married/partnered, no children",Both,Wildlife,With a significant other,4 to 5,Domestically,Yes,NA,4,"Marine animals, Land mammals",3,3,2,2,NA,TRUE,Not Codable,"Moderate Planning, Traveler Recommendations, Advanced Booking","Scenery, Cuisine, Enjoyability",NA,NA,NA,NA,Price,Positive Reviews,Budget
+25 - 34,Woman,Single,Neither,NA,With a significant other,6+,Domestically,Yes,NA,NA,NA,3,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45 - 54,Man,"Married/partnered, with children",NA,NA,With family (including children),2 to 3,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+25 - 34,Man,Single,Wildlife Watcher,NA,Solo,6+,Domestically,Yes,NA,4,"Reptiles/Amphibians, Birds",3,3,3,3,NA,FALSE,"Finances, Travel Considerations",Little-to-No Planning,"Nature, Activities/Attractions, Affordability",NA,NA,NA,NA,Price,NA,NA
+55+,Woman,"Married/partnered, with children",Wildlife Watcher,NA,With a significant other,2 to 3,Domestically,Yes,NA,5,"Land mammals, Reptiles/Amphibians, Birds",4,4,3,3,NA,FALSE,Travel Considerations,Little-to-No Planning,"Off Beaten Path, Physical Activity, Nature",NA,NA,NA,NA,No Guarantees,NA,NA
+35 - 44,Woman,"Married/partnered, no children",Wildlife Watcher,NA,With a significant other,6+,Domestically,Yes,NA,4,"Marine animals, Land mammals",4,4,3,3,NA,FALSE,New Location,"Moderate Planning, Adv Booking When Necessary, Book At Destination","Relaxation, Cuisine, Lodging",NA,NA,NA,NA,Seasonality,NA,NA
+18 - 24,Woman,"Married/partnered, no children",,NA,With family (including children),0 to 1,Domestically,Yes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+45 - 54,Woman,"Married/partnered, no children",Wildlife Watcher,NA,With a significant other,4 to 5,Domestically,Yes,NA,5,"Marine animals, Land mammals, Reptiles/Amphibians, Birds",3,4,4,2,NA,TRUE,"Friends Live Nearby, New Location, Weather Considerations",Moderate Planning,"Enjoyability, New Experiences",NA,NA,NA,NA,"Lack of Knowledge, Ethical Treatment","Experienced/Knowledgeable, Ethical Treatment",Vetting
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
