@@ -1,0 +1,86 @@
+---
+title: "Survey Stats"
+author: "Deanna Elliott"
+date: '2022-09-19'
+output: html_document
+---
+
+```{r setup, include=TRUE, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(tidyverse)
+library(here)
+library(ggplot2)
+library(ggpubr)
+library(broom)
+library(AICcmodavg)
+```
+
+# read in data
+
+```{r}
+
+read_in <- read_csv(here("data", "survey_stats.csv")) %>% 
+  janitor::clean_names()
+
+data <- read_in[-c(24, 25, 27, 33, 35, 39, 41, 48, 49, 51, 55, 74, 75, 80, 95, 97, 
+                   103, 114, 122, 125, 131, 132, 136), ] 
+
+```
+
+# gender data sets
+
+```{r}
+
+f_data <- data %>% 
+  filter(gender == "Woman")
+
+m_data <- data %>% 
+  filter(gender == "Man")
+
+
+f_sus <- f_data %>% select(sustainable_options)
+m_sus <- m_data %>% select(sustainable_options)
+t.test(f_sus, m_sus, var.equal = FALSE)
+
+f_comm <- f_data %>%  select(community_benefit_options)
+m_comm <- m_data %>%  select(community_benefit_options)
+t.test(f_comm, m_comm, var.equal = FALSE)
+
+f_sus_diff <- f_data %>%  select(difficult_to_find_sustainability)
+m_sus_diff <- m_data %>%  select(difficult_to_find_sustainability)
+t.test(f_sus_diff, m_sus_diff, var.equal = FALSE)
+
+f_ben_diff <- f_data %>%  select(difficult_to_find_local_guides)
+m_ben_diff <- m_data %>%  select(difficult_to_find_local_guides)
+t.test(f_ben_diff, m_ben_diff, var.equal = FALSE)
+```
+
+
+# age
+
+```{r}
+
+age1 <- data %>% filter(age == "18 - 24") 
+age2 <- data %>%  filter(age == "25 - 34")
+age3 <- data %>%  filter(age == "35 - 44")
+age4 <- data %>%  filter(age == "45 - 54")
+age5 <- data %>% filter(age == "55+")
+
+ag1 <- age1 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+ag2 <- age2 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+ag3 <- age3 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+ag4 <- age4 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+ag5 <- age5 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+```
+
+
+
+
+
+
+
