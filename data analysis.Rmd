@@ -13,6 +13,7 @@ library(ggplot2)
 library(ggpubr)
 library(broom)
 library(AICcmodavg)
+library(tidyr)
 ```
 
 # read in data
@@ -37,22 +38,18 @@ f_data <- data %>%
 m_data <- data %>% 
   filter(gender == "Man")
 
+mean(f_data$sustainable_options)  # 3.94
+mean(m_data$sustainable_options)  # 3.17
 
-f_sus <- f_data %>% select(sustainable_options)
-m_sus <- m_data %>% select(sustainable_options)
-t.test(f_sus, m_sus, var.equal = FALSE)
+mean(f_data$community_benefit_options)  # 4.00
+mean(m_data$community_benefit_options)  # 3.45
 
-f_comm <- f_data %>%  select(community_benefit_options)
-m_comm <- m_data %>%  select(community_benefit_options)
-t.test(f_comm, m_comm, var.equal = FALSE)
+mean(f_data$difficult_to_find_sustainability)  # 3.39
+mean(m_data$difficult_to_find_sustainability)  # 3.14
 
-f_sus_diff <- f_data %>%  select(difficult_to_find_sustainability)
-m_sus_diff <- m_data %>%  select(difficult_to_find_sustainability)
-t.test(f_sus_diff, m_sus_diff, var.equal = FALSE)
+mean(f_data$difficult_to_find_local_guides)  # 2.72
+mean(m_data$difficult_to_find_local_guides)  # 2.62
 
-f_ben_diff <- f_data %>%  select(difficult_to_find_local_guides)
-m_ben_diff <- m_data %>%  select(difficult_to_find_local_guides)
-t.test(f_ben_diff, m_ben_diff, var.equal = FALSE)
 ```
 
 
@@ -66,21 +63,92 @@ age3 <- data %>%  filter(age == "35 - 44")
 age4 <- data %>%  filter(age == "45 - 54")
 age5 <- data %>% filter(age == "55+")
 
-ag1 <- age1 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+mean(age1$sustainable_options)  # 3.44
+mean(age2$sustainable_options)  # 3.70
+mean(age3$sustainable_options)  # 4.21
+mean(age4$sustainable_options)  # 3.63
+mean(age5$sustainable_options)  # 4
 
-ag2 <- age2 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+mean(age1$community_benefit_options)  # 3.84
+mean(age2$community_benefit_options)  # 3.86
+mean(age3$community_benefit_options)  # 3.89
+mean(age4$community_benefit_options)  # 3.63
+mean(age5$community_benefit_options)  # 4.17
 
-ag3 <- age3 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+mean(age1$difficult_to_find_sustainability)  # 3.72
+mean(age2$difficult_to_find_sustainability)  # 3.27
+mean(age3$difficult_to_find_sustainability)  # 3.05
+mean(age4$difficult_to_find_sustainability)  # 3.75
+mean(age5$difficult_to_find_sustainability)  # 3.00
 
-ag4 <- age4 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+mean(age1$difficult_to_find_local_guides)  # 2.84
+mean(age2$difficult_to_find_local_guides)  # 2.59
+mean(age3$difficult_to_find_local_guides)  # 2.79
+mean(age4$difficult_to_find_local_guides)  # 2.75
+mean(age5$difficult_to_find_local_guides)  # 2.67
 
-ag5 <- age5 %>% select(sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+
+age_groups <- data %>% select(age, sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+
+# hyp testing
+
+sus_anov <- aov(sustainable_options ~ age, data = age_groups)
+summary(sus_anov)
+
+ben_anov <- aov(community_benefit_options ~ age, data = age_groups)
+summary(ben_anov)
+
+diff_sus_anov <- aov(difficult_to_find_sustainability ~ age, data = age_groups)
+summary(diff_sus_anov)
+
+diff_ben_anov <- aov(difficult_to_find_local_guides ~ age, data = age_groups)
+summary(diff_ben_anov)
 
 ```
 
+# interactions
+
+```{r}
+
+int.data <- data %>% select(gender, age, relationship, travel_with, trips_per_year, sustainable_options, community_benefit_options, difficult_to_find_sustainability, difficult_to_find_local_guides)
+
+int_sus <- aov(sustainable_options ~ gender*age*relationship*travel_with*trips_per_year, data = int.data)
+summary(int_sus)
+
+int_ben <- aov(community_benefit_options ~ gender*age*relationship*travel_with*trips_per_year, data = int.data)
+summary(int_ben)
+
+int_sus_diff <- aov(difficult_to_find_sustainability ~ gender*age*relationship*travel_with*trips_per_year, data = int.data)
+summary(int_sus_diff)
+
+int_ben_diff <- aov(difficult_to_find_local_guides ~ gender*age*relationship*travel_with*trips_per_year, data = int.data)
+summary(int_ben_diff)
+```
 
 
+# travel types
 
+```{r}
+
+cmb_type <- data %>% 
+  unite("traveler_type", type:adventure_or_wildlife, remove = TRUE) %>% 
+  filter(traveler_type != "NA_NA")
+
+adv <- cmb_type %>% filter(traveler_type %in% c("Both_Adventure", "Adventure Traveler_NA"))
+
+ww <- cmb_type %>% filter(traveler_type %in% c("Both_Wildlife", "Wildlife Watcher_NA"))
+
+counts_gen.type <- cmb_type %>% 
+  tabyl(traveler_type, gender)
+    # Adv: 56(W), 22(M), 0(NB)
+    # WW: 27(W), 7(M), 2(NB)
+
+count_adv_trips <- cmb_type %>% tabyl(traveler_type, trips_per_year)
+    # Adv: 2 0-1, 31 2-3, 24 4-5, 21 6+   33(0-3), 45(4-6+)
+    # WW: 0 0-1, 22 2-3, 7 4-5, 7 6+      22(2-3), 14(4-6+)
+```
 
 
 
