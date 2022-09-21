@@ -141,14 +141,21 @@ adv <- cmb_type %>% filter(traveler_type %in% c("Both_Adventure", "Adventure Tra
 ww <- cmb_type %>% filter(traveler_type %in% c("Both_Wildlife", "Wildlife Watcher_NA"))
 
 counts_gen.type <- cmb_type %>% 
-  tabyl(traveler_type, gender)
+  janitor::tabyl(traveler_type, gender)
     # Adv: 56(W), 22(M), 0(NB)
     # WW: 27(W), 7(M), 2(NB)
 
-count_adv_trips <- cmb_type %>% tabyl(traveler_type, trips_per_year)
+count_adv_trips <- cmb_type %>% janitor::tabyl(traveler_type, trips_per_year)
     # Adv: 2 0-1, 31 2-3, 24 4-5, 21 6+   33(0-3), 45(4-6+)
     # WW: 0 0-1, 22 2-3, 7 4-5, 7 6+      22(2-3), 14(4-6+)
 ```
 
 
+```{r}
+
+x <- cmb_type %>% filter(gender == "Woman") %>% 
+                      filter(age == "25 - 34") %>% 
+  select(adv_activities) %>% 
+  na.omit()
+```
 
